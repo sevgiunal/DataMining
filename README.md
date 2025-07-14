@@ -58,11 +58,4 @@ This repository contains standalone Python scripts for performing machine learni
 - `matplotlib`, `seaborn`
 - `scikit-learn`
 
----
 
-## 🚀 Running the Scripts
-
-Ensure all dependencies are installed:
-
-```bash
-pip install -r requirements.txt
